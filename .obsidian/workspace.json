@@ -11,14 +11,10 @@
             "id": "c63f1939cd8f28b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ch9查找.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ch9查找"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ch9查找.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Ch9查找 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ch9查找.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ch9查找 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ch9查找.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ch9查找 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -186,13 +179,23 @@
   },
   "active": "c63f1939cd8f28b0",
   "lastOpenFiles": [
+    "新建文件夹",
+    "Ch9查找.md",
+    "数据结构/Ch9查找.md",
+    "数据结构/Ch7图.md",
+    "数据结构/Ch6树和二叉树.md",
+    "数据结构/Ch6树和二叉树.cpp",
+    "数据结构/Ch4串.md",
+    "数据结构/Ch3栈和队列.md",
+    "数据结构/Ch2线性表.md",
+    "数据结构/Ch1绪论.md",
+    "数据结构",
     "Ch7图.md",
     "Ch6树和二叉树.md",
     "Ch6树和二叉树.cpp",
     "Ch4串.md",
     "Ch3栈和队列.md",
     "Ch2线性表.md",
-    "Ch1绪论.md",
-    "Ch9查找.md"
+    "Ch1绪论.md"
   ]
 }
